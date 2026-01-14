@@ -1,5 +1,9 @@
 # Fake News Detection
 
+## Membri del gruppo
+- Davide Creati
+- Martino Pettinari
+
 ## Risorse
 
 - **Homepage Dataset**: [dataset/liar2](https://paperswithcode.com/dataset/liar2)  
